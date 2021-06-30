@@ -1,0 +1,9 @@
+1
+bateria
+2
+polos
+3
+400
+caixa
+1
+20
